@@ -1,0 +1,3 @@
+[submodule "woodi"]
+	path = external/woodi
+	url = git@github.com:DaniilAlpha/woodi.git
